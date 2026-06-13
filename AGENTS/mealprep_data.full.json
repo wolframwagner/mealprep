@@ -1,0 +1,156 @@
+[
+  {
+    "week": "W1",
+    "theme": { "de": "Mediterran-orientalisch", "en": "Mediterranean–Middle Eastern" },
+    "protein_base": { "de": "Seitan + rote Linsen", "en": "Seitan + red lentils" },
+    "carb_base": { "de": "Bulgur", "en": "Bulgur" },
+    "protein_g": 193,
+    "kcal": 1980,
+    "budget_eur": 39.54,
+    "ingredients": [
+      { "name": { "de": "Seitan", "en": "Seitan" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 600, "protein_per_100g": 25.0, "kcal_per_100g": 143, "fat_per_100g": 2.0, "carbs_per_100g": 5.0 },
+      { "name": { "de": "Rote Linsen", "en": "Red lentils" }, "category": { "de": "Hülsenfrüchte", "en": "Legumes" }, "amount_g": 500, "protein_per_100g": 24.0, "kcal_per_100g": 358, "fat_per_100g": 1.1, "carbs_per_100g": 60.0 },
+      { "name": { "de": "Bulgur", "en": "Bulgur" }, "category": { "de": "Kohlenhydrate", "en": "Carbs" }, "amount_g": 800, "protein_per_100g": 12.0, "kcal_per_100g": 342, "fat_per_100g": 1.3, "carbs_per_100g": 76.0 },
+      { "name": { "de": "Kirschtomaten", "en": "Cherry tomatoes" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 0.9, "kcal_per_100g": 18, "fat_per_100g": 0.2, "carbs_per_100g": 3.0 },
+      { "name": { "de": "Gurke", "en": "Cucumber" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 300, "protein_per_100g": 0.7, "kcal_per_100g": 15, "fat_per_100g": 0.1, "carbs_per_100g": 3.6 },
+      { "name": { "de": "Minze", "en": "Mint" }, "category": { "de": "Kräuter", "en": "Herbs" }, "amount_g": 20, "protein_per_100g": 3.8, "kcal_per_100g": 70, "fat_per_100g": 0.9, "carbs_per_100g": 15.0 },
+      { "name": { "de": "Zitrone", "en": "Lemon" }, "category": { "de": "Obst", "en": "Fruit" }, "amount_g": 200, "protein_per_100g": 1.1, "kcal_per_100g": 29, "fat_per_100g": 0.3, "carbs_per_100g": 9.0 },
+      { "name": { "de": "Olivenöl", "en": "Olive oil" }, "category": { "de": "Fette/Öle", "en": "Fats/Oils" }, "amount_g": 80, "protein_per_100g": 0.0, "kcal_per_100g": 884, "fat_per_100g": 100.0, "carbs_per_100g": 0.0 },
+      { "name": { "de": "Tahini", "en": "Tahini" }, "category": { "de": "Saucen", "en": "Sauces" }, "amount_g": 100, "protein_per_100g": 17.0, "kcal_per_100g": 595, "fat_per_100g": 54.0, "carbs_per_100g": 21.0 }
+    ],
+    "sauces": [
+      { "name": { "de": "Tahini-Zitronen-Dressing", "en": "Tahini-lemon dressing" }, "day_of_week": 0,
+        "recipe": { "de": ["Tahini mit Zitronensaft verrühren", "Kochwasser der Linsen für Cremigkeit zugeben", "Mit Salz und Knoblauch abschmecken"], "en": ["Whisk tahini with lemon juice", "Add lentil cooking water for creaminess", "Season with salt and garlic"] } },
+      { "name": { "de": "Tomaten-Minz-Salsa", "en": "Tomato-mint salsa" }, "day_of_week": 2,
+        "recipe": { "de": ["Kirschtomaten vierteln", "Minze hacken und unterheben", "Mit Olivenöl, Salz, Pfeffer marinieren"], "en": ["Quarter the cherry tomatoes", "Chop mint and fold in", "Marinate with olive oil, salt, pepper"] } }
+    ]
+  },
+  {
+    "week": "W2",
+    "theme": { "de": "Mexikanisch", "en": "Mexican" },
+    "protein_base": { "de": "Sojagranulat (\"Hack\") + schwarze Bohnen", "en": "Textured soy (\"mince\") + black beans" },
+    "carb_base": { "de": "Reis + Mais", "en": "Rice + corn" },
+    "protein_g": 193,
+    "kcal": 1971,
+    "budget_eur": 40.58,
+    "ingredients": [
+      { "name": { "de": "Sojagranulat", "en": "Textured soy" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 500, "protein_per_100g": 52.0, "kcal_per_100g": 364, "fat_per_100g": 1.0, "carbs_per_100g": 32.0 },
+      { "name": { "de": "Schwarze Bohnen (Dose)", "en": "Black beans (canned)" }, "category": { "de": "Hülsenfrüchte", "en": "Legumes" }, "amount_g": 800, "protein_per_100g": 8.9, "kcal_per_100g": 132, "fat_per_100g": 0.5, "carbs_per_100g": 23.0 },
+      { "name": { "de": "Reis", "en": "Rice" }, "category": { "de": "Kohlenhydrate", "en": "Carbs" }, "amount_g": 700, "protein_per_100g": 7.0, "kcal_per_100g": 360, "fat_per_100g": 0.7, "carbs_per_100g": 79.0 },
+      { "name": { "de": "Mais (Dose)", "en": "Corn (canned)" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 300, "protein_per_100g": 3.4, "kcal_per_100g": 86, "fat_per_100g": 1.5, "carbs_per_100g": 19.0 },
+      { "name": { "de": "Paprika", "en": "Bell pepper" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 1.0, "kcal_per_100g": 31, "fat_per_100g": 0.3, "carbs_per_100g": 6.0 },
+      { "name": { "de": "Tomaten", "en": "Tomatoes" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 500, "protein_per_100g": 0.9, "kcal_per_100g": 18, "fat_per_100g": 0.2, "carbs_per_100g": 3.9 },
+      { "name": { "de": "Avocado", "en": "Avocado" }, "category": { "de": "Obst", "en": "Fruit" }, "amount_g": 200, "protein_per_100g": 2.0, "kcal_per_100g": 160, "fat_per_100g": 14.7, "carbs_per_100g": 8.5 },
+      { "name": { "de": "Koriander", "en": "Cilantro" }, "category": { "de": "Kräuter", "en": "Herbs" }, "amount_g": 20, "protein_per_100g": 2.1, "kcal_per_100g": 23, "fat_per_100g": 0.5, "carbs_per_100g": 3.7 },
+      { "name": { "de": "Limette", "en": "Lime" }, "category": { "de": "Obst", "en": "Fruit" }, "amount_g": 100, "protein_per_100g": 0.7, "kcal_per_100g": 30, "fat_per_100g": 0.2, "carbs_per_100g": 10.5 }
+    ],
+    "sauces": [
+      { "name": { "de": "Salsa Roja", "en": "Salsa roja" }, "day_of_week": 1,
+        "recipe": { "de": ["Tomaten grob hacken", "Mit Limettensaft, Salz, Koriander abschmecken"], "en": ["Coarsely chop tomatoes", "Season with lime juice, salt, cilantro"] } },
+      { "name": { "de": "Avocado-Creme", "en": "Avocado crema" }, "day_of_week": 3,
+        "recipe": { "de": ["Avocado mit Limettensaft zerdrücken", "Mit Salz und Wasser zu cremiger Konsistenz rühren"], "en": ["Mash avocado with lime juice", "Stir in salt and water until creamy"] } }
+    ]
+  },
+  {
+    "week": "W3",
+    "theme": { "de": "Hausmannskost (deutsch-osteuropäisch)", "en": "Hearty home cooking (German–Eastern European)" },
+    "protein_base": { "de": "Räuchertofu + weiße Bohnen", "en": "Smoked tofu + white beans" },
+    "carb_base": { "de": "Kartoffeln", "en": "Potatoes" },
+    "protein_g": 191,
+    "kcal": 1987,
+    "budget_eur": 42.36,
+    "ingredients": [
+      { "name": { "de": "Räuchertofu", "en": "Smoked tofu" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 600, "protein_per_100g": 16.0, "kcal_per_100g": 195, "fat_per_100g": 11.0, "carbs_per_100g": 2.5 },
+      { "name": { "de": "Weiße Bohnen (Dose)", "en": "White beans (canned)" }, "category": { "de": "Hülsenfrüchte", "en": "Legumes" }, "amount_g": 800, "protein_per_100g": 8.7, "kcal_per_100g": 139, "fat_per_100g": 0.6, "carbs_per_100g": 25.0 },
+      { "name": { "de": "Kartoffeln", "en": "Potatoes" }, "category": { "de": "Kohlenhydrate", "en": "Carbs" }, "amount_g": 1200, "protein_per_100g": 2.0, "kcal_per_100g": 77, "fat_per_100g": 0.1, "carbs_per_100g": 17.0 },
+      { "name": { "de": "Zwiebeln", "en": "Onions" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 300, "protein_per_100g": 1.1, "kcal_per_100g": 40, "fat_per_100g": 0.1, "carbs_per_100g": 9.3 },
+      { "name": { "de": "Karotten", "en": "Carrots" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 0.9, "kcal_per_100g": 41, "fat_per_100g": 0.2, "carbs_per_100g": 9.6 },
+      { "name": { "de": "Lauch", "en": "Leek" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 200, "protein_per_100g": 1.5, "kcal_per_100g": 25, "fat_per_100g": 0.3, "carbs_per_100g": 5.7 },
+      { "name": { "de": "Senf", "en": "Mustard" }, "category": { "de": "Saucen", "en": "Sauces" }, "amount_g": 50, "protein_per_100g": 5.0, "kcal_per_100g": 67, "fat_per_100g": 4.0, "carbs_per_100g": 5.0 },
+      { "name": { "de": "Pflanzenmargarine", "en": "Vegan margarine" }, "category": { "de": "Fette/Öle", "en": "Fats/Oils" }, "amount_g": 100, "protein_per_100g": 0.0, "kcal_per_100g": 720, "fat_per_100g": 80.0, "carbs_per_100g": 0.0 }
+    ],
+    "sauces": [
+      { "name": { "de": "Klassische Mehlschwitze", "en": "Classic roux" }, "day_of_week": 0,
+        "recipe": { "de": ["Margarine schmelzen", "Mehl einrühren und 1 Min. rösten", "Mit Gemüsebrühe ablöschen und glattrühren"], "en": ["Melt margarine", "Stir in flour and toast for 1 min", "Deglaze with vegetable stock and whisk smooth"] } },
+      { "name": { "de": "Senf-Dill-Sauce", "en": "Mustard-dill sauce" }, "day_of_week": 4,
+        "recipe": { "de": ["Senf mit Pflanzendrink verrühren", "Gehackten Dill unterheben", "Mit Salz und etwas Essig abschmecken"], "en": ["Whisk mustard with plant milk", "Fold in chopped dill", "Season with salt and a splash of vinegar"] } }
+    ]
+  },
+  {
+    "week": "W4",
+    "theme": { "de": "Indisch", "en": "Indian" },
+    "protein_base": { "de": "Tofu + gelbe/rote Linsen (Dal)", "en": "Tofu + yellow/red lentils (dal)" },
+    "carb_base": { "de": "Basmati", "en": "Basmati rice" },
+    "protein_g": 195,
+    "kcal": 2008,
+    "budget_eur": 39.37,
+    "ingredients": [
+      { "name": { "de": "Naturtofu", "en": "Plain tofu" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 600, "protein_per_100g": 8.0, "kcal_per_100g": 76, "fat_per_100g": 4.8, "carbs_per_100g": 1.9 },
+      { "name": { "de": "Rote Linsen", "en": "Red lentils" }, "category": { "de": "Hülsenfrüchte", "en": "Legumes" }, "amount_g": 400, "protein_per_100g": 24.0, "kcal_per_100g": 358, "fat_per_100g": 1.1, "carbs_per_100g": 60.0 },
+      { "name": { "de": "Gelbe Linsen", "en": "Yellow lentils" }, "category": { "de": "Hülsenfrüchte", "en": "Legumes" }, "amount_g": 300, "protein_per_100g": 24.0, "kcal_per_100g": 358, "fat_per_100g": 1.1, "carbs_per_100g": 60.0 },
+      { "name": { "de": "Basmati-Reis", "en": "Basmati rice" }, "category": { "de": "Kohlenhydrate", "en": "Carbs" }, "amount_g": 800, "protein_per_100g": 7.0, "kcal_per_100g": 350, "fat_per_100g": 0.5, "carbs_per_100g": 78.0 },
+      { "name": { "de": "Tomaten (Dose)", "en": "Tomatoes (canned)" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 0.9, "kcal_per_100g": 18, "fat_per_100g": 0.2, "carbs_per_100g": 3.9 },
+      { "name": { "de": "Spinat", "en": "Spinach" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 2.9, "kcal_per_100g": 23, "fat_per_100g": 0.4, "carbs_per_100g": 3.6 },
+      { "name": { "de": "Ingwer", "en": "Ginger" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 50, "protein_per_100g": 1.8, "kcal_per_100g": 80, "fat_per_100g": 0.8, "carbs_per_100g": 18.0 },
+      { "name": { "de": "Knoblauch", "en": "Garlic" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 30, "protein_per_100g": 6.4, "kcal_per_100g": 149, "fat_per_100g": 0.5, "carbs_per_100g": 33.0 },
+      { "name": { "de": "Garam Masala", "en": "Garam masala" }, "category": { "de": "Gewürze", "en": "Spices" }, "amount_g": 20, "protein_per_100g": 0.0, "kcal_per_100g": 0, "fat_per_100g": 0.0, "carbs_per_100g": 0.0 }
+    ],
+    "sauces": [
+      { "name": { "de": "Tadka (Gewürzöl)", "en": "Tadka (tempered spices)" }, "day_of_week": 1,
+        "recipe": { "de": ["Öl erhitzen", "Garam Masala kurz rösten", "Über Dal geben und unterrühren"], "en": ["Heat oil", "Bloom garam masala briefly", "Pour over dal and stir in"] } },
+      { "name": { "de": "Minz-Chutney", "en": "Mint chutney" }, "day_of_week": 5,
+        "recipe": { "de": ["Minze, Koriander, grüne Chili mixen", "Mit Limette und Salz abschmecken"], "en": ["Blend mint, cilantro, green chili", "Season with lime and salt"] } }
+    ]
+  },
+  {
+    "week": "W5",
+    "theme": { "de": "Asiatisch", "en": "Asian" },
+    "protein_base": { "de": "Seitan + Sojagranulat (+ Edamame-Topping)", "en": "Seitan + textured soy (+ edamame topping)" },
+    "carb_base": { "de": "Mie-Nudeln", "en": "Mie noodles" },
+    "protein_g": 201,
+    "kcal": 2000,
+    "budget_eur": 41.16,
+    "ingredients": [
+      { "name": { "de": "Seitan", "en": "Seitan" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 500, "protein_per_100g": 25.0, "kcal_per_100g": 143, "fat_per_100g": 2.0, "carbs_per_100g": 5.0 },
+      { "name": { "de": "Sojagranulat", "en": "Textured soy" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 300, "protein_per_100g": 52.0, "kcal_per_100g": 364, "fat_per_100g": 1.0, "carbs_per_100g": 32.0 },
+      { "name": { "de": "Edamame (TK)", "en": "Edamame (frozen)" }, "category": { "de": "Hülsenfrüchte", "en": "Legumes" }, "amount_g": 300, "protein_per_100g": 11.0, "kcal_per_100g": 122, "fat_per_100g": 5.0, "carbs_per_100g": 9.0 },
+      { "name": { "de": "Mie-Nudeln", "en": "Mie noodles" }, "category": { "de": "Kohlenhydrate", "en": "Carbs" }, "amount_g": 800, "protein_per_100g": 12.0, "kcal_per_100g": 460, "fat_per_100g": 1.0, "carbs_per_100g": 87.0 },
+      { "name": { "de": "Pak Choi", "en": "Bok choy" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 1.5, "kcal_per_100g": 13, "fat_per_100g": 0.2, "carbs_per_100g": 2.2 },
+      { "name": { "de": "Karotten", "en": "Carrots" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 300, "protein_per_100g": 0.9, "kcal_per_100g": 41, "fat_per_100g": 0.2, "carbs_per_100g": 9.6 },
+      { "name": { "de": "Sojasauce", "en": "Soy sauce" }, "category": { "de": "Saucen", "en": "Sauces" }, "amount_g": 100, "protein_per_100g": 8.0, "kcal_per_100g": 53, "fat_per_100g": 0.1, "carbs_per_100g": 4.9 },
+      { "name": { "de": "Erdnussmus", "en": "Peanut butter" }, "category": { "de": "Saucen", "en": "Sauces" }, "amount_g": 80, "protein_per_100g": 25.0, "kcal_per_100g": 588, "fat_per_100g": 50.0, "carbs_per_100g": 20.0 },
+      { "name": { "de": "Sesamöl", "en": "Sesame oil" }, "category": { "de": "Fette/Öle", "en": "Fats/Oils" }, "amount_g": 30, "protein_per_100g": 0.0, "kcal_per_100g": 884, "fat_per_100g": 100.0, "carbs_per_100g": 0.0 }
+    ],
+    "sauces": [
+      { "name": { "de": "Erdnuss-Sauce", "en": "Peanut sauce" }, "day_of_week": 2,
+        "recipe": { "de": ["Erdnussmus mit Sojasauce und warmem Wasser verrühren", "Mit Sriracha und Limette abschmecken"], "en": ["Whisk peanut butter with soy sauce and warm water", "Season with sriracha and lime"] } },
+      { "name": { "de": "Sesam-Soja-Dressing", "en": "Sesame-soy dressing" }, "day_of_week": 4,
+        "recipe": { "de": ["Sojasauce mit Sesamöl und Reisessig mischen", "Mit etwas Ahornsirup süßen"], "en": ["Combine soy sauce with sesame oil and rice vinegar", "Sweeten with a little maple syrup"] } }
+    ]
+  },
+  {
+    "week": "W6",
+    "theme": { "de": "Klassiker (dein Standard, aufgewertet)", "en": "Classics (your standard, upgraded)" },
+    "protein_base": { "de": "Tofu + Sojagranulat", "en": "Tofu + textured soy" },
+    "carb_base": { "de": "Reis", "en": "Rice" },
+    "protein_g": 193,
+    "kcal": 2018,
+    "budget_eur": 35.21,
+    "ingredients": [
+      { "name": { "de": "Naturtofu", "en": "Plain tofu" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 600, "protein_per_100g": 8.0, "kcal_per_100g": 76, "fat_per_100g": 4.8, "carbs_per_100g": 1.9 },
+      { "name": { "de": "Sojagranulat", "en": "Textured soy" }, "category": { "de": "Protein", "en": "Protein" }, "amount_g": 400, "protein_per_100g": 52.0, "kcal_per_100g": 364, "fat_per_100g": 1.0, "carbs_per_100g": 32.0 },
+      { "name": { "de": "Reis", "en": "Rice" }, "category": { "de": "Kohlenhydrate", "en": "Carbs" }, "amount_g": 1000, "protein_per_100g": 7.0, "kcal_per_100g": 360, "fat_per_100g": 0.7, "carbs_per_100g": 79.0 },
+      { "name": { "de": "Brokkoli", "en": "Broccoli" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 500, "protein_per_100g": 2.8, "kcal_per_100g": 34, "fat_per_100g": 0.4, "carbs_per_100g": 7.0 },
+      { "name": { "de": "Zucchini", "en": "Zucchini" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 400, "protein_per_100g": 1.2, "kcal_per_100g": 17, "fat_per_100g": 0.3, "carbs_per_100g": 3.1 },
+      { "name": { "de": "Paprika", "en": "Bell pepper" }, "category": { "de": "Gemüse", "en": "Vegetables" }, "amount_g": 300, "protein_per_100g": 1.0, "kcal_per_100g": 31, "fat_per_100g": 0.3, "carbs_per_100g": 6.0 },
+      { "name": { "de": "Sojasauce", "en": "Soy sauce" }, "category": { "de": "Saucen", "en": "Sauces" }, "amount_g": 80, "protein_per_100g": 8.0, "kcal_per_100g": 53, "fat_per_100g": 0.1, "carbs_per_100g": 4.9 },
+      { "name": { "de": "Sesam", "en": "Sesame seeds" }, "category": { "de": "Gewürze", "en": "Spices" }, "amount_g": 20, "protein_per_100g": 17.7, "kcal_per_100g": 573, "fat_per_100g": 49.7, "carbs_per_100g": 23.4 }
+    ],
+    "sauces": [
+      { "name": { "de": "Teriyaki-Glasur", "en": "Teriyaki glaze" }, "day_of_week": 1,
+        "recipe": { "de": ["Sojasauce, Mirin, Ahornsirup reduzieren", "Mit Speisestärke andicken"], "en": ["Reduce soy sauce, mirin, maple syrup", "Thicken with cornstarch"] } },
+      { "name": { "de": "Sesam-Sesam-Topping", "en": "Sesame topping" }, "day_of_week": 5,
+        "recipe": { "de": ["Sesam in trockener Pfanne rösten", "Mit einer Prise Salz bestreuen"], "en": ["Toast sesame in a dry pan", "Sprinkle with a pinch of salt"] } }
+    ]
+  }
+]

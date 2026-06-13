@@ -1,0 +1,56 @@
+[
+  {
+    "week": "W1",
+    "theme": { "de": "Mediterran-orientalisch", "en": "Mediterranean–Middle Eastern" },
+    "protein_base": { "de": "Seitan + rote Linsen", "en": "Seitan + red lentils" },
+    "carb_base": { "de": "Bulgur", "en": "Bulgur" },
+    "protein_g": 193,
+    "kcal": 1980,
+    "budget_eur": 39.54
+  },
+  {
+    "week": "W2",
+    "theme": { "de": "Mexikanisch", "en": "Mexican" },
+    "protein_base": { "de": "Sojagranulat (\"Hack\") + schwarze Bohnen", "en": "Textured soy (\"mince\") + black beans" },
+    "carb_base": { "de": "Reis + Mais", "en": "Rice + corn" },
+    "protein_g": 193,
+    "kcal": 1971,
+    "budget_eur": 40.58
+  },
+  {
+    "week": "W3",
+    "theme": { "de": "Hausmannskost (deutsch-osteuropäisch)", "en": "Hearty home cooking (German–Eastern European)" },
+    "protein_base": { "de": "Räuchertofu + weiße Bohnen", "en": "Smoked tofu + white beans" },
+    "carb_base": { "de": "Kartoffeln", "en": "Potatoes" },
+    "protein_g": 191,
+    "kcal": 1987,
+    "budget_eur": 42.36
+  },
+  {
+    "week": "W4",
+    "theme": { "de": "Indisch", "en": "Indian" },
+    "protein_base": { "de": "Tofu + gelbe/rote Linsen (Dal)", "en": "Tofu + yellow/red lentils (dal)" },
+    "carb_base": { "de": "Basmati", "en": "Basmati rice" },
+    "protein_g": 195,
+    "kcal": 2008,
+    "budget_eur": 39.37
+  },
+  {
+    "week": "W5",
+    "theme": { "de": "Asiatisch", "en": "Asian" },
+    "protein_base": { "de": "Seitan + Sojagranulat (+ Edamame-Topping)", "en": "Seitan + textured soy (+ edamame topping)" },
+    "carb_base": { "de": "Mie-Nudeln", "en": "Mie noodles" },
+    "protein_g": 201,
+    "kcal": 2000,
+    "budget_eur": 41.16
+  },
+  {
+    "week": "W6",
+    "theme": { "de": "Klassiker (dein Standard, aufgewertet)", "en": "Classics (your standard, upgraded)" },
+    "protein_base": { "de": "Tofu + Sojagranulat", "en": "Tofu + textured soy" },
+    "carb_base": { "de": "Reis", "en": "Rice" },
+    "protein_g": 193,
+    "kcal": 2018,
+    "budget_eur": 35.21
+  }
+]

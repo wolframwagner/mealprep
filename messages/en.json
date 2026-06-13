@@ -1,0 +1,116 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "back": "Back",
+    "yes": "Yes",
+    "no": "No",
+    "language": "Language",
+    "english": "English",
+    "german": "Deutsch",
+    "languagePrompt": "Choose your language",
+    "languagePromptHint": "You can change this later in settings.",
+    "loggedInAs": "Logged in as {name}",
+    "logout": "Log out",
+    "login": "Log in",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name"
+  },
+  "nav": {
+    "plan": "Week plan",
+    "shopping": "Shopping",
+    "cooking": "Cooking",
+    "settings": "Settings"
+  },
+  "auth": {
+    "title": "Welcome to Mealprep",
+    "subtitle": "Plan your weeks, shop smart, cook efficiently.",
+    "signInCta": "Sign in",
+    "signUpCta": "Create account",
+    "noAccount": "No account yet?",
+    "haveAccount": "Already have an account?",
+    "invalidCredentials": "Wrong email or password",
+    "weakPassword": "Password must be at least 8 characters"
+  },
+  "weeks": {
+    "title": "Your week plan",
+    "subtitle": "Pick a week to start your prep.",
+    "weekLabel": "Week {n}",
+    "protein": "Protein base",
+    "carbs": "Carb base",
+    "proteinPerDay": "{g}g protein / day",
+    "kcalPerDay": "{kcal} kcal / day",
+    "budget": "Budget €{amount}",
+    "startWeek": "Start this week",
+    "currentWeek": "Current week",
+    "noActiveWeek": "No active week yet"
+  },
+  "shopping": {
+    "title": "Shopping list",
+    "store": "Store",
+    "denns": "Denns",
+    "rewe": "Rewe",
+    "planned": "Planned: {amount}",
+    "actual": "Actual: {amount}",
+    "actualPlaceholder": "Enter actual amount",
+    "substituted": "Substituted with",
+    "impact": "Impact: {delta} protein",
+    "addItem": "Add item",
+    "ingredientName": "Ingredient",
+    "category": "Category",
+    "remove": "Remove",
+    "saveAll": "Save all changes",
+    "saved": "Saved",
+    "deviation": "Deviation"
+  },
+  "cooking": {
+    "title": "Cooking guide",
+    "day": "Day",
+    "step": "Step {n} of {total}",
+    "servings": "{n} servings",
+    "instructions": "Instructions",
+    "scaledFor": "Quantities scaled for {n} portions",
+    "min": "{n} min",
+    "hour": "{n} h",
+    "noRecipe": "No recipe steps yet",
+    "markDone": "Mark as done",
+    "done": "Done"
+  },
+  "tracking": {
+    "title": "Daily tracking",
+    "completed": "Completed",
+    "remaining": "Remaining",
+    "alert": {
+      "proteinLow": "Protein is {delta}g below plan",
+      "kcalHigh": "Calories are {delta} above plan",
+      "kcalLow": "Calories are {delta} below plan"
+    },
+    "today": "Today",
+    "summary": "Today's plan: {protein}g protein, {kcal} kcal"
+  },
+  "settings": {
+    "title": "Settings",
+    "languageSection": "Language",
+    "accountSection": "Account"
+  },
+  "days": {
+    "0": "Monday",
+    "1": "Tuesday",
+    "2": "Wednesday",
+    "3": "Thursday",
+    "4": "Friday",
+    "5": "Saturday",
+    "6": "Sunday"
+  },
+  "offline": {
+    "ready": "Offline mode: shopping and cooking are still available",
+    "syncing": "Syncing changes…",
+    "pending": "{n} change(s) pending"
+  }
+}
