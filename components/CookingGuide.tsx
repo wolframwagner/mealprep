@@ -13,7 +13,7 @@ export function CookingGuide({ sauces }: { sauces: Sauce[] }) {
   const tDays = useTranslations('days');
   const { locale } = useLocaleOverride();
   const [portions, setPortions] = useState<number>(4);
-  const [active, setActive] = useState<number | null>(sauces[0]?.id ?? null);
+  const [active, setActive] = useState<string | null>(sauces[0]?.id ?? null);
 
   const sauce = useMemo(
     () => sauces.find((s) => s.id === active) ?? sauces[0] ?? null,
