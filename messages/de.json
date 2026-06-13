@@ -67,7 +67,24 @@
     "remove": "Entfernen",
     "saveAll": "Alle Änderungen speichern",
     "saved": "Gespeichert",
-    "deviation": "Abweichung"
+    "deviation": "Abweichung",
+    "mode": {
+      "plan": "Plan",
+      "shop": "Einkaufen"
+    },
+    "progress": "{done}/{total} im Wagen",
+    "loose": "lose",
+    "unit": {
+      "pack": "{n, plural, one {Packung} other {Packungen}}",
+      "can": "{n, plural, one {Dose} other {Dosen}}",
+      "jar": "{n, plural, one {Glas} other {Gläser}}",
+      "bottle": "{n, plural, one {Flasche} other {Flaschen}}",
+      "bag": "{n, plural, one {Beutel} other {Beutel}}",
+      "piece": "{n, plural, one {Stk} other {Stk}}",
+      "bunch": "{n, plural, one {Bund} other {Bund}}",
+      "block": "{n, plural, one {Block} other {Blöcke}}",
+      "tub": "{n, plural, one {Becher} other {Becher}}"
+    }
   },
   "cooking": {
     "title": "Koch-Anleitung",

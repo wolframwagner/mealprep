@@ -67,7 +67,24 @@
     "remove": "Remove",
     "saveAll": "Save all changes",
     "saved": "Saved",
-    "deviation": "Deviation"
+    "deviation": "Deviation",
+    "mode": {
+      "plan": "Plan",
+      "shop": "Shop"
+    },
+    "progress": "{done}/{total} in cart",
+    "loose": "loose",
+    "unit": {
+      "pack": "{n, plural, one {pack} other {packs}}",
+      "can": "{n, plural, one {can} other {cans}}",
+      "jar": "{n, plural, one {jar} other {jars}}",
+      "bottle": "{n, plural, one {bottle} other {bottles}}",
+      "bag": "{n, plural, one {bag} other {bags}}",
+      "piece": "{n, plural, one {pc} other {pcs}}",
+      "bunch": "{n, plural, one {bunch} other {bunches}}",
+      "block": "{n, plural, one {block} other {blocks}}",
+      "tub": "{n, plural, one {tub} other {tubs}}"
+    }
   },
   "cooking": {
     "title": "Cooking guide",
